@@ -1,0 +1,21 @@
+ <div class="container">
+  <div class="row">
+    <div class="col">
+      Column
+    </div>
+    <div class="col 2">
+      Column
+    </div>
+    <div class="col 3">
+      Column
+      
+    </div>
+  </div>
+  <div class="container">
+  <div class="row row-cols-2">
+    <div class="col">Hi</div>
+    <div class="col">Yo</div>
+    <div class="col">Hey</div>
+  </div>
+</div>
+</div>
