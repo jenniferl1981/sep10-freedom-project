@@ -1,3 +1,8 @@
 .container-fluid{
     color: #485764;
+    
+}
+
+animate__animated animate__bounce{
+    animation-duration: 1s
 }

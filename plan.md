@@ -1,6 +1,6 @@
 navbar<Myron>:
 Home 
-
+title: backdown entrence & backup exit (animate.css)
 
 
 
@@ -14,5 +14,5 @@ The company wants to create a real relationship with the client to build trust. 
 Keyword marketing:
 Based on someone's research, business men/women will place messages that match up with their search topics. Ex: Ad units, banners
 <!-- /card -->
-Part B(together1):
-<>
+Part B <together>:
+
