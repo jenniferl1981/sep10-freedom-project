@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  <div class="container">
   <div class="row">
     <div class="col">
@@ -19,3 +20,13 @@
   </div>
 </div>
 </div>
+=======
+.container-fluid{
+    color: #485764;
+    
+}
+
+animate__animated animate__bounce{
+    animation-duration: 1s
+}
+>>>>>>> 27a485e3c5422f0ce6702c1b02f27597a70af829
