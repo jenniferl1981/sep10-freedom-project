@@ -1,4 +1,8 @@
+
 <style>
+
+
+
  <div class="container">
   <div class="row">
     <div class="col">
@@ -20,13 +24,15 @@
   </div>
 </div>
 </div>
-=======
-.container-fluid{
-    color: #485764;
+
     
 }
 
 animate__backInDown animate__backInDown{
     animation-duration: 1s
 }
->>>>>>> 27a485e3c5422f0ce6702c1b02f27597a70af829
+
+.container-fluid {
+ text-align: justify;
+
+}
