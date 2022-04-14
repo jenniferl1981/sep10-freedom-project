@@ -29,7 +29,7 @@
  word-spacing: normal;   
 }
 
-animate__backInDown animate__backInDown{
+.animate__animated animate__backInDown{
     animation-duration: 5s
     
 }
@@ -39,7 +39,7 @@ animate__backInDown animate__backInDown{
 }
 
 
-.container-fluid {
- text-align: justify;
-
+container {
+  display: flex; 
 }
+
