@@ -31,7 +31,6 @@
 
 .animate__animated animate__backInDown{
     animation-duration: 5s
-    
 }
 
 .motionless__banner {
@@ -40,6 +39,15 @@
 
 
 container {
-  display: flex; 
+  display: flex;
+  flex-flow: column;
+}
+
+h1{
+  text-align: center;
+}
+
+animate__animated animate__backInRight{
+  animation-duration: 3s;
 }
 
