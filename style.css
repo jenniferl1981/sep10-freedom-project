@@ -48,6 +48,12 @@ h1{
 }
 
 
-background-color{
-  color: #dceab2;
+  body{
+  	background-color: #DCEAB2;
+   }
+
+.navbarNav{
+  background-color: #A8CCC9
 }
+
+
